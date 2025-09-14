@@ -1,0 +1,910 @@
+SampleID	place	p_class	Eriophyoidea_family	geographic_emarcation	longitude	latitude	heigh	bio12	bio15	bio18	bio2	bio3	bio8	plant	Relationship	Group	Zoogeographical
+BJ2_1	BJ	Monocotyledoneae	Eriophyidae	Temperate broad-leaved forests	116.2033	39.9974	85	624	134	482	112	27	252	31	Monocotyledoneae_Eriophyidae	MED	Northern China
+BJ2_2	BJ	Monocotyledoneae	Eriophyidae	Temperate broad-leaved forests	116.2033	39.9974	85	624	134	482	112	27	252	31	Monocotyledoneae_Eriophyidae	MED	Northern China
+BJ2_3	BJ	Monocotyledoneae	Eriophyidae	Temperate broad-leaved forests	116.2033	39.9974	85	624	134	482	112	27	252	31	Monocotyledoneae_Eriophyidae	MED	Northern China
+BJ2_4	BJ	Monocotyledoneae	Eriophyidae	Temperate broad-leaved forests	116.2033	39.9974	85	624	134	482	112	27	252	31	Monocotyledoneae_Eriophyidae	MED	Northern China
+BJ2_5	BJ	Monocotyledoneae	Eriophyidae	Temperate broad-leaved forests	116.2033	39.9974	85	624	134	482	112	27	252	31	Monocotyledoneae_Eriophyidae	MED	Northern China
+BJ3_1	BJ	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	117.1869	40.1727	55	574	132	433	118	27	229	23	Dicotyledoneae_Eriophyidae	DED	Northern China
+BJ3_2	BJ	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	117.1869	40.1727	55	574	132	433	118	27	229	23	Dicotyledoneae_Eriophyidae	DED	Northern China
+BJ3_3	BJ	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	117.1869	40.1727	55	574	132	433	118	27	229	23	Dicotyledoneae_Eriophyidae	DED	Northern China
+BJ3_4	BJ	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	117.1869	40.1727	55	574	132	433	118	27	229	23	Dicotyledoneae_Eriophyidae	DED	Northern China
+BJ3_5	BJ	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	117.1869	40.1727	55	574	132	433	118	27	229	23	Dicotyledoneae_Eriophyidae	DED	Northern China
+BJ5_1	BJ	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	116.2033	39.9974	85	624	134	482	112	27	252	31	Dicotyledoneae_Eriophyidae	DED	Northern China
+BJ5_2	BJ	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	116.2033	39.9974	85	624	134	482	112	27	252	31	Dicotyledoneae_Eriophyidae	DED	Northern China
+BJ5_3	BJ	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	116.2033	39.9974	85	624	134	482	112	27	252	31	Dicotyledoneae_Eriophyidae	DED	Northern China
+BJ7_1	BJ	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	116.1908	40.0202	79	636	138	498	115	28	253	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+BJ7_2	BJ	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	116.1908	40.0202	79	636	138	498	115	28	253	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+BJ7_3	BJ	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	116.1908	40.0202	79	636	138	498	115	28	253	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+BJ7_4	BJ	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	116.1908	40.0202	79	636	138	498	115	28	253	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+BJ7_5	BJ	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	116.1908	40.0202	79	636	138	498	115	28	253	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+BJ7_6	BJ	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	116.1908	40.0202	79	636	138	498	115	28	253	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+FJ101_1	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+FJ101_2	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+FJ101_3	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+FJ101_4	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+FJ104_1	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ104_2	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ104_3	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ104_4	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ104_5	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ106_1	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ106_2	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ106_3	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ106_4	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ106_5	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ110_1	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ110_2	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ110_3	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ110_4	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ110_5	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.0281	25.0858	340	1724	60	645	85	34	219	3	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ112_1	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.6434	24.5206	10	1518	60	522	66	29	262	3	Dicotyledoneae_Diptilomiopidae 	DED	South China
+FJ112_2	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.6434	24.5206	10	1518	60	522	66	29	262	3	Dicotyledoneae_Diptilomiopidae 	DED	South China
+FJ112_3	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.6434	24.5206	10	1518	60	522	66	29	262	3	Dicotyledoneae_Diptilomiopidae 	DED	South China
+FJ113_1	FJ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8305	24.9853	25	1135	57	373	61	27	232	11	Gymnospermae_Eriophyidae	GE	South China
+FJ113_2	FJ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8305	24.9853	25	1135	57	373	61	27	232	11	Gymnospermae_Eriophyidae	GE	South China
+FJ113_3	FJ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8305	24.9853	25	1135	57	373	61	27	232	11	Gymnospermae_Eriophyidae	GE	South China
+FJ113_4	FJ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8305	24.9853	25	1135	57	373	61	27	232	11	Gymnospermae_Eriophyidae	GE	South China
+FJ113_5	FJ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8305	24.9853	25	1135	57	373	61	27	232	11	Gymnospermae_Eriophyidae	GE	South China
+FJ32_1	FJ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.6686	24.5291	16	1439	59	498	64	28	263	5	Gymnospermae_Eriophyidae	GE	South China
+FJ32_2	FJ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.6686	24.5291	16	1439	59	498	64	28	263	5	Gymnospermae_Eriophyidae	GE	South China
+FJ32_3	FJ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.6686	24.5291	16	1439	59	498	64	28	263	5	Gymnospermae_Eriophyidae	GE	South China
+FJ32_4	FJ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.6686	24.5291	16	1439	59	498	64	28	263	5	Gymnospermae_Eriophyidae	GE	South China
+FJ32_5	FJ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.6686	24.5291	16	1439	59	498	64	28	263	5	Gymnospermae_Eriophyidae	GE	South China
+FJ41_1	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+FJ41_2	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+FJ41_3	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+FJ41_4	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+FJ41_5	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+FJ50_1	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+FJ50_2	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+FJ50_3	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+FJ50_4	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+FJ51_1	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ51_2	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ51_3	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ53_1	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ53_2	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ53_3	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ53_4	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ53_5	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ54_1	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ54_2	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ54_3	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ54_4	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ54_5	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.9792	27.63	190	1906	63	624	85	29	216	42	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ61_1	FJ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.1959	26.6322	150	1669	57	571	85	31	224	20	Gymnospermae_Eriophyidae	GE	Central China
+FJ61_2	FJ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.1959	26.6322	150	1669	57	571	85	31	224	20	Gymnospermae_Eriophyidae	GE	Central China
+FJ61_3	FJ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.1959	26.6322	150	1669	57	571	85	31	224	20	Gymnospermae_Eriophyidae	GE	Central China
+FJ61_4	FJ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.1959	26.6322	150	1669	57	571	85	31	224	20	Gymnospermae_Eriophyidae	GE	Central China
+FJ61_5	FJ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.1959	26.6322	150	1669	57	571	85	31	224	20	Gymnospermae_Eriophyidae	GE	Central China
+FJ68_1	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ68_2	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ68_3	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ68_4	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ68_5	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ71_1	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ71_2	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ71_3	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ71_4	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ71_5	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ76_1	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ76_2	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ76_3	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ76_4	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ76_5	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ78_1	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ78_2	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ78_3	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ78_4	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ78_5	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.12	26.6978	320	1798	59	619	85	31	213	72	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ88_2	FJ	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.7439	24.5006	200	1439	59	498	64	28	263	2	Monocotyledoneae_Eriophyidae	MED	South China
+FJ88_3	FJ	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.7439	24.5006	200	1439	59	498	64	28	263	2	Monocotyledoneae_Eriophyidae	MED	South China
+FJ88_5	FJ	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.7439	24.5006	200	1439	59	498	64	28	263	2	Monocotyledoneae_Eriophyidae	MED	South China
+FJ96_1	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.7439	24.5006	200	1439	59	498	64	28	263	2	Dicotyledoneae_Eriophyidae	DED	South China
+FJ96_2	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.7439	24.5006	200	1439	59	498	64	28	263	2	Dicotyledoneae_Eriophyidae	DED	South China
+FJ96_3	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.7439	24.5006	200	1439	59	498	64	28	263	2	Dicotyledoneae_Eriophyidae	DED	South China
+FJ96_4	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.7439	24.5006	200	1439	59	498	64	28	263	2	Dicotyledoneae_Eriophyidae	DED	South China
+FJ96_5	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.7439	24.5006	200	1439	59	498	64	28	263	2	Dicotyledoneae_Eriophyidae	DED	South China
+FJ98_1	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.6833	25.0914	340	1653	59	658	75	32	200	28	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ98_2	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.6833	25.0914	340	1653	59	658	75	32	200	28	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ98_3	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.6833	25.0914	340	1653	59	658	75	32	200	28	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ98_4	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.6833	25.0914	340	1653	59	658	75	32	200	28	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ98_5	FJ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	117.6833	25.0914	340	1653	59	658	75	32	200	28	Dicotyledoneae_Eriophyidae	DED	Central China
+FJ99_1	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.6833	25.0914	340	1653	59	658	75	32	200	28	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+FJ99_2	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.6833	25.0914	340	1653	59	658	75	32	200	28	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+FJ99_3	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.6833	25.0914	340	1653	59	658	75	32	200	28	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+FJ99_4	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.6833	25.0914	340	1653	59	658	75	32	200	28	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+FJ99_5	FJ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	117.6833	25.0914	340	1653	59	658	75	32	200	28	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+GD142_1	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.4873	23.6192	30	1955	67	802	85	34	246	4	Dicotyledoneae_Eriophyidae	DED	South China
+GD142_2	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.4873	23.6192	30	1955	67	802	85	34	246	4	Dicotyledoneae_Eriophyidae	DED	South China
+GD142_3	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.4873	23.6192	30	1955	67	802	85	34	246	4	Dicotyledoneae_Eriophyidae	DED	South China
+GD142_4	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.4873	23.6192	30	1955	67	802	85	34	246	4	Dicotyledoneae_Eriophyidae	DED	South China
+GD142_5	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.4873	23.6192	30	1955	67	802	85	34	246	4	Dicotyledoneae_Eriophyidae	DED	South China
+GD143_2	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.3668	23.1625	30	1723	65	773	81	34	276	0	Dicotyledoneae_Eriophyidae	DED	South China
+GD143_3	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.3668	23.1625	30	1723	65	773	81	34	276	0	Dicotyledoneae_Eriophyidae	DED	South China
+GD143_4	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.3668	23.1625	30	1723	65	773	81	34	276	0	Dicotyledoneae_Eriophyidae	DED	South China
+GD143_5	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.3668	23.1625	30	1723	65	773	81	34	276	0	Dicotyledoneae_Eriophyidae	DED	South China
+GD144_1	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.3668	23.1625	30	1723	65	773	81	34	276	0	Dicotyledoneae_Eriophyidae	DED	South China
+GD144_2	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.3668	23.1625	30	1723	65	773	81	34	276	0	Dicotyledoneae_Eriophyidae	DED	South China
+GD144_3	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.3668	23.1625	30	1723	65	773	81	34	276	0	Dicotyledoneae_Eriophyidae	DED	South China
+GD144_4	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.3668	23.1625	30	1723	65	773	81	34	276	0	Dicotyledoneae_Eriophyidae	DED	South China
+GD144_5	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.3668	23.1625	30	1723	65	773	81	34	276	0	Dicotyledoneae_Eriophyidae	DED	South China
+GD145_1	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.4873	23.6192	30	1955	67	802	85	34	246	4	Dicotyledoneae_Eriophyidae	DED	South China
+GD145_2	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.4873	23.6192	30	1955	67	802	85	34	246	4	Dicotyledoneae_Eriophyidae	DED	South China
+GD145_3	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.4873	23.6192	30	1955	67	802	85	34	246	4	Dicotyledoneae_Eriophyidae	DED	South China
+GD145_4	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.4873	23.6192	30	1955	67	802	85	34	246	4	Dicotyledoneae_Eriophyidae	DED	South China
+GD145_5	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.4873	23.6192	30	1955	67	802	85	34	246	4	Dicotyledoneae_Eriophyidae	DED	South China
+GD146_1	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.4873	23.6192	30	1955	67	802	85	34	246	4	Dicotyledoneae_Eriophyidae	DED	South China
+GD146_4	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.4873	23.6192	30	1955	67	802	85	34	246	4	Dicotyledoneae_Eriophyidae	DED	South China
+GD146_5	GD	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.4873	23.6192	30	1955	67	802	85	34	246	4	Dicotyledoneae_Eriophyidae	DED	South China
+GD148_1	GD	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	113.6252	23.5895	30	1972	67	809	85	34	247	46	Dicotyledoneae_Diptilomiopidae 	DED	South China
+GD148_2	GD	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	113.6252	23.5895	30	1972	67	809	85	34	247	46	Dicotyledoneae_Diptilomiopidae 	DED	South China
+GD148_3	GD	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	113.6252	23.5895	30	1972	67	809	85	34	247	46	Dicotyledoneae_Diptilomiopidae 	DED	South China
+GD148_4	GD	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	113.6252	23.5895	30	1972	67	809	85	34	247	46	Dicotyledoneae_Diptilomiopidae 	DED	South China
+GD148_5	GD	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	113.6252	23.5895	30	1972	67	809	85	34	247	46	Dicotyledoneae_Diptilomiopidae 	DED	South China
+GD148_6	GD	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	113.6252	23.5895	30	1972	67	809	85	34	247	46	Dicotyledoneae_Diptilomiopidae 	DED	South China
+GS17_1	GS	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	104.6267	35.0094	1780	512	81	259	106	30	169	0	Dicotyledoneae_Eriophyidae	DED	Northern China
+GS17_2	GS	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	104.6267	35.0094	1780	512	81	259	106	30	169	0	Dicotyledoneae_Eriophyidae	DED	Northern China
+GS17_3	GS	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	104.6267	35.0094	1780	512	81	259	106	30	169	0	Dicotyledoneae_Eriophyidae	DED	Northern China
+GS17_4	GS	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	104.6267	35.0094	1780	512	81	259	106	30	169	0	Dicotyledoneae_Eriophyidae	DED	Northern China
+GS17_5	GS	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	104.6267	35.0094	1780	512	81	259	106	30	169	0	Dicotyledoneae_Eriophyidae	DED	Northern China
+GS18_1	GS	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	104.6267	35.0094	1780	512	81	259	106	30	169	0	Dicotyledoneae_Eriophyidae	DED	Northern China
+GS18_2	GS	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	104.6267	35.0094	1780	512	81	259	106	30	169	0	Dicotyledoneae_Eriophyidae	DED	Northern China
+GS18_3	GS	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	104.6267	35.0094	1780	512	81	259	106	30	169	0	Dicotyledoneae_Eriophyidae	DED	Northern China
+GS18_4	GS	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	104.6267	35.0094	1780	512	81	259	106	30	169	0	Dicotyledoneae_Eriophyidae	DED	Northern China
+GS18_5	GS	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	104.6267	35.0094	1780	512	81	259	106	30	169	0	Dicotyledoneae_Eriophyidae	DED	Northern China
+GS24_1	GS	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	104.6267	35.0094	1780	512	81	259	106	30	169	0	Dicotyledoneae_Eriophyidae	DED	Northern China
+GS24_3	GS	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	104.6267	35.0094	1780	512	81	259	106	30	169	0	Dicotyledoneae_Eriophyidae	DED	Northern China
+GS24_4	GS	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	104.6267	35.0094	1780	512	81	259	106	30	169	0	Dicotyledoneae_Eriophyidae	DED	Northern China
+GS24_5	GS	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	104.6267	35.0094	1780	512	81	259	106	30	169	0	Dicotyledoneae_Eriophyidae	DED	Northern China
+GS33_1	GS	Dicotyledoneae	Eriophyidae	Temperate grassland	103.8083	36.0725	1680	348	88	189	131	31	190	0	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+GS33_2	GS	Dicotyledoneae	Eriophyidae	Temperate grassland	103.8083	36.0725	1680	348	88	189	131	31	190	0	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+GS33_3	GS	Dicotyledoneae	Eriophyidae	Temperate grassland	103.8083	36.0725	1680	348	88	189	131	31	190	0	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+GS33_4	GS	Dicotyledoneae	Eriophyidae	Temperate grassland	103.8083	36.0725	1680	348	88	189	131	31	190	0	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+GS33_5	GS	Dicotyledoneae	Eriophyidae	Temperate grassland	103.8083	36.0725	1680	348	88	189	131	31	190	0	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+GS35_2	GS	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.9364	33.3769	1140	587	79	288	101	32	200	1	Monocotyledoneae_Eriophyidae	MED	Central China
+GS35_3	GS	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.9364	33.3769	1140	587	79	288	101	32	200	1	Monocotyledoneae_Eriophyidae	MED	Central China
+GS35_4	GS	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.9364	33.3769	1140	587	79	288	101	32	200	1	Monocotyledoneae_Eriophyidae	MED	Central China
+GS36_1	GS	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.9364	33.3769	1140	587	79	288	101	32	200	1	Dicotyledoneae_Eriophyidae	DED	Central China
+GS36_2	GS	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.9364	33.3769	1140	587	79	288	101	32	200	1	Dicotyledoneae_Eriophyidae	DED	Central China
+GS36_3	GS	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.9364	33.3769	1140	587	79	288	101	32	200	1	Dicotyledoneae_Eriophyidae	DED	Central China
+GS36_4	GS	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.9364	33.3769	1140	587	79	288	101	32	200	1	Dicotyledoneae_Eriophyidae	DED	Central China
+GS36_5	GS	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.9364	33.3769	1140	587	79	288	101	32	200	1	Dicotyledoneae_Eriophyidae	DED	Central China
+GS44_1	GS	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.7752	33.1858	1240	701	76	335	110	35	156	11	Dicotyledoneae_Eriophyidae	DED	Central China
+GS44_2	GS	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.7752	33.1858	1240	701	76	335	110	35	156	11	Dicotyledoneae_Eriophyidae	DED	Central China
+GS44_3	GS	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.7752	33.1858	1240	701	76	335	110	35	156	11	Dicotyledoneae_Eriophyidae	DED	Central China
+GS44_4	GS	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.7752	33.1858	1240	701	76	335	110	35	156	11	Dicotyledoneae_Eriophyidae	DED	Central China
+GS44_5	GS	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.7752	33.1858	1240	701	76	335	110	35	156	11	Dicotyledoneae_Eriophyidae	DED	Central China
+GS47_1	GS	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	104.7752	33.1858	1240	701	76	335	110	35	156	11	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+GS47_2	GS	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	104.7752	33.1858	1240	701	76	335	110	35	156	11	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+GS47_3	GS	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	104.7752	33.1858	1240	701	76	335	110	35	156	11	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+GS47_4	GS	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	104.7752	33.1858	1240	701	76	335	110	35	156	11	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+GS47_5	GS	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	104.7752	33.1858	1240	701	76	335	110	35	156	11	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+GS51_1	GS	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.7752	33.1858	1240	701	76	335	110	35	156	11	Dicotyledoneae_Eriophyidae	DED	Central China
+GS51_2	GS	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.7752	33.1858	1240	701	76	335	110	35	156	11	Dicotyledoneae_Eriophyidae	DED	Central China
+GS51_3	GS	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.7752	33.1858	1240	701	76	335	110	35	156	11	Dicotyledoneae_Eriophyidae	DED	Central China
+GS51_4	GS	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.7752	33.1858	1240	701	76	335	110	35	156	11	Dicotyledoneae_Eriophyidae	DED	Central China
+GS51_5	GS	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.7752	33.1858	1240	701	76	335	110	35	156	11	Dicotyledoneae_Eriophyidae	DED	Central China
+GS55_2	GS	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.7752	33.1858	1240	701	76	335	110	35	156	11	Dicotyledoneae_Eriophyidae	DED	Central China
+GS55_3	GS	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.7752	33.1858	1240	701	76	335	110	35	156	11	Dicotyledoneae_Eriophyidae	DED	Central China
+GS55_4	GS	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	104.7752	33.1858	1240	701	76	335	110	35	156	11	Dicotyledoneae_Eriophyidae	DED	Central China
+HB20_1	HB	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	111.0838	32.5078	193	852	62	383	107	30	253	39	Dicotyledoneae_Eriophyidae	DED	Central China
+HB20_2	HB	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	111.0838	32.5078	193	852	62	383	107	30	253	39	Dicotyledoneae_Eriophyidae	DED	Central China
+HB20_3	HB	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	111.0838	32.5078	193	852	62	383	107	30	253	39	Dicotyledoneae_Eriophyidae	DED	Central China
+HB20_4	HB	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	111.0838	32.5078	193	852	62	383	107	30	253	39	Dicotyledoneae_Eriophyidae	DED	Central China
+HB20_5	HB	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	111.0838	32.5078	193	852	62	383	107	30	253	39	Dicotyledoneae_Eriophyidae	DED	Central China
+HL103_3	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.735	44.4794	330	584	92	356	123	24	190	23	Dicotyledoneae_Eriophyidae	DED	North East
+HL103_4	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.735	44.4794	330	584	92	356	123	24	190	23	Dicotyledoneae_Eriophyidae	DED	North East
+HL103_5	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.735	44.4794	330	584	92	356	123	24	190	23	Dicotyledoneae_Eriophyidae	DED	North East
+HL105_1	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.735	44.4794	330	584	92	356	123	24	190	23	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL105_2	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.735	44.4794	330	584	92	356	123	24	190	23	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL105_3	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.735	44.4794	330	584	92	356	123	24	190	23	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL105_4	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.735	44.4794	330	584	92	356	123	24	190	23	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL105_5	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.735	44.4794	330	584	92	356	123	24	190	23	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL113_1	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Eriophyidae	DED	North East
+HL113_2	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Eriophyidae	DED	North East
+HL113_3	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Eriophyidae	DED	North East
+HL113_4	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Eriophyidae	DED	North East
+HL113_5	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Eriophyidae	DED	North East
+HL114_1	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Eriophyidae	DED	North East
+HL114_2	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Eriophyidae	DED	North East
+HL114_3	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Eriophyidae	DED	North East
+HL114_4	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Eriophyidae	DED	North East
+HL114_5	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Eriophyidae	DED	North East
+HL115_1	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL115_2	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL115_3	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL115_4	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL115_5	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL116_1	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL116_2	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL116_3	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL116_4	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL116_5	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.6203	45.1519	240	591	93	365	124	24	195	71	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL120_1	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL120_2	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL120_3	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL120_4	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL120_5	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL121_1	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Eriophyidae	DED	North East
+HL121_2	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Eriophyidae	DED	North East
+HL121_3	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Eriophyidae	DED	North East
+HL121_4	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Eriophyidae	DED	North East
+HL121_5	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Eriophyidae	DED	North East
+HL121_6	HL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Eriophyidae	DED	North East
+HL123_1	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL123_2	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL123_3	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL123_4	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL123_5	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL124_1	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL124_2	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL124_3	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL125_1	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL125_2	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL125_3	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL125_4	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL125_5	HL	Dicotyledoneae	Diptilomiopidae 	Temperate mixed forest	129.5906	44.6011	250	553	91	337	124	24	204	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+HL134_1	HL	Dicotyledoneae	Eriophyidae	Temperate grassland	126.6881	45.7867	140	557	104	365	124	23	212	3	Dicotyledoneae_Eriophyidae	DED	North East
+HL134_2	HL	Dicotyledoneae	Eriophyidae	Temperate grassland	126.6881	45.7867	140	557	104	365	124	23	212	3	Dicotyledoneae_Eriophyidae	DED	North East
+HL134_3	HL	Dicotyledoneae	Eriophyidae	Temperate grassland	126.6881	45.7867	140	557	104	365	124	23	212	3	Dicotyledoneae_Eriophyidae	DED	North East
+HL134_4	HL	Dicotyledoneae	Eriophyidae	Temperate grassland	126.6881	45.7867	140	557	104	365	124	23	212	3	Dicotyledoneae_Eriophyidae	DED	North East
+HL137_1	HL	Gymnospermae	Phytoptidae	Temperate grassland	126.6881	45.7867	140	557	104	365	124	23	212	3	Gymnospermae_Phytoptidae	GP	North East
+HL137_2	HL	Gymnospermae	Phytoptidae	Temperate grassland	126.6881	45.7867	140	557	104	365	124	23	212	3	Gymnospermae_Phytoptidae	GP	North East
+HL137_3	HL	Gymnospermae	Phytoptidae	Temperate grassland	126.6881	45.7867	140	557	104	365	124	23	212	3	Gymnospermae_Phytoptidae	GP	North East
+HL137_4	HL	Gymnospermae	Phytoptidae	Temperate grassland	126.6881	45.7867	140	557	104	365	124	23	212	3	Gymnospermae_Phytoptidae	GP	North East
+HL137_5	HL	Gymnospermae	Phytoptidae	Temperate grassland	126.6881	45.7867	140	557	104	365	124	23	212	3	Gymnospermae_Phytoptidae	GP	North East
+HN242_1	HN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.9479	28.1943	82	1386	47	434	76	23	221	9	Monocotyledoneae_Eriophyidae	MED	Central China
+HN242_2	HN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.9479	28.1943	82	1386	47	434	76	23	221	9	Monocotyledoneae_Eriophyidae	MED	Central China
+HN242_3	HN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.9479	28.1943	82	1386	47	434	76	23	221	9	Monocotyledoneae_Eriophyidae	MED	Central China
+HN242_4	HN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.9479	28.1943	82	1386	47	434	76	23	221	9	Monocotyledoneae_Eriophyidae	MED	Central China
+HN242_5	HN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.9479	28.1943	82	1386	47	434	76	23	221	9	Monocotyledoneae_Eriophyidae	MED	Central China
+HN245_1	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.9479	28.1943	82	1386	47	434	76	23	221	9	Dicotyledoneae_Eriophyidae	DED	Central China
+HN245_2	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.9479	28.1943	82	1386	47	434	76	23	221	9	Dicotyledoneae_Eriophyidae	DED	Central China
+HN245_3	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.9479	28.1943	82	1386	47	434	76	23	221	9	Dicotyledoneae_Eriophyidae	DED	Central China
+HN245_4	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.9479	28.1943	82	1386	47	434	76	23	221	9	Dicotyledoneae_Eriophyidae	DED	Central China
+HN245_5	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.9479	28.1943	82	1386	47	434	76	23	221	9	Dicotyledoneae_Eriophyidae	DED	Central China
+HN248_1	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.9479	28.1943	82	1386	47	434	76	23	221	9	Dicotyledoneae_Eriophyidae	DED	Central China
+HN248_2	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.9479	28.1943	82	1386	47	434	76	23	221	9	Dicotyledoneae_Eriophyidae	DED	Central China
+HN248_3	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.9479	28.1943	82	1386	47	434	76	23	221	9	Dicotyledoneae_Eriophyidae	DED	Central China
+HN262_1	HN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	110.4804	29.0486	1452	1445	55	583	80	26	236	79	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+HN262_2	HN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	110.4804	29.0486	1452	1445	55	583	80	26	236	79	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+HN262_3	HN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	110.4804	29.0486	1452	1445	55	583	80	26	236	79	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+HN262_4	HN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	110.4804	29.0486	1452	1445	55	583	80	26	236	79	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+HN262_5	HN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	110.4804	29.0486	1452	1445	55	583	80	26	236	79	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+HN269_1	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4804	29.0486	1452	1445	55	583	80	26	236	79	Dicotyledoneae_Eriophyidae	DED	Central China
+HN269_2	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4804	29.0486	1452	1445	55	583	80	26	236	79	Dicotyledoneae_Eriophyidae	DED	Central China
+HN269_3	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4804	29.0486	1452	1445	55	583	80	26	236	79	Dicotyledoneae_Eriophyidae	DED	Central China
+HN269_4	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4804	29.0486	1452	1445	55	583	80	26	236	79	Dicotyledoneae_Eriophyidae	DED	Central China
+HN269_5	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4804	29.0486	1452	1445	55	583	80	26	236	79	Dicotyledoneae_Eriophyidae	DED	Central China
+HN274_1	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4943	29.1232	246	1445	55	583	80	26	236	32	Gymnospermae_Eriophyidae	GE	Central China
+HN274_2	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4943	29.1232	246	1445	55	583	80	26	236	32	Gymnospermae_Eriophyidae	GE	Central China
+HN274_3	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4943	29.1232	246	1445	55	583	80	26	236	32	Gymnospermae_Eriophyidae	GE	Central China
+HN274_4	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4943	29.1232	246	1445	55	583	80	26	236	32	Gymnospermae_Eriophyidae	GE	Central China
+HN274_5	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4943	29.1232	246	1445	55	583	80	26	236	32	Gymnospermae_Eriophyidae	GE	Central China
+HN276_1	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4943	29.1232	246	1445	55	583	80	26	236	32	Gymnospermae_Eriophyidae	GE	Central China
+HN276_2	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4943	29.1232	246	1445	55	583	80	26	236	32	Gymnospermae_Eriophyidae	GE	Central China
+HN276_3	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4943	29.1232	246	1445	55	583	80	26	236	32	Gymnospermae_Eriophyidae	GE	Central China
+HN276_4	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4943	29.1232	246	1445	55	583	80	26	236	32	Gymnospermae_Eriophyidae	GE	Central China
+HN276_5	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4943	29.1232	246	1445	55	583	80	26	236	32	Gymnospermae_Eriophyidae	GE	Central China
+HN278_1	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4943	29.1232	246	1445	55	583	80	26	236	32	Gymnospermae_Eriophyidae	GE	Central China
+HN278_2	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4943	29.1232	246	1445	55	583	80	26	236	32	Gymnospermae_Eriophyidae	GE	Central China
+HN278_3	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4943	29.1232	246	1445	55	583	80	26	236	32	Gymnospermae_Eriophyidae	GE	Central China
+HN278_4	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4943	29.1232	246	1445	55	583	80	26	236	32	Gymnospermae_Eriophyidae	GE	Central China
+HN278_5	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	110.4943	29.1232	246	1445	55	583	80	26	236	32	Gymnospermae_Eriophyidae	GE	Central China
+HN283_1	HN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	109.6059	27.9379	525	1294	53	479	81	26	206	53	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+HN283_2	HN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	109.6059	27.9379	525	1294	53	479	81	26	206	53	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+HN283_3	HN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	109.6059	27.9379	525	1294	53	479	81	26	206	53	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+HN283_4	HN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	109.6059	27.9379	525	1294	53	479	81	26	206	53	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+HN293_1	HN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	109.6059	27.9379	525	1294	53	479	81	26	206	53	Monocotyledoneae_Eriophyidae	MED	Central China
+HN293_2	HN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	109.6059	27.9379	525	1294	53	479	81	26	206	53	Monocotyledoneae_Eriophyidae	MED	Central China
+HN293_3	HN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	109.6059	27.9379	525	1294	53	479	81	26	206	53	Monocotyledoneae_Eriophyidae	MED	Central China
+HN293_4	HN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	109.6059	27.9379	525	1294	53	479	81	26	206	53	Monocotyledoneae_Eriophyidae	MED	Central China
+HN293_5	HN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	109.6059	27.9379	525	1294	53	479	81	26	206	53	Monocotyledoneae_Eriophyidae	MED	Central China
+HN294_1	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	109.6059	27.9379	525	1294	53	479	81	26	206	53	Gymnospermae_Eriophyidae	GE	Central China
+HN294_2	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	109.6059	27.9379	525	1294	53	479	81	26	206	53	Gymnospermae_Eriophyidae	GE	Central China
+HN294_3	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	109.6059	27.9379	525	1294	53	479	81	26	206	53	Gymnospermae_Eriophyidae	GE	Central China
+HN294_4	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	109.6059	27.9379	525	1294	53	479	81	26	206	53	Gymnospermae_Eriophyidae	GE	Central China
+HN294_5	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	109.6059	27.9379	525	1294	53	479	81	26	206	53	Gymnospermae_Eriophyidae	GE	Central China
+HN318_1	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.8574	27.2352	188	1661	41	577	78	24	222	0	Gymnospermae_Eriophyidae	GE	Central China
+HN318_2	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.8574	27.2352	188	1661	41	577	78	24	222	0	Gymnospermae_Eriophyidae	GE	Central China
+HN318_3	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.8574	27.2352	188	1661	41	577	78	24	222	0	Gymnospermae_Eriophyidae	GE	Central China
+HN318_4	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.8574	27.2352	188	1661	41	577	78	24	222	0	Gymnospermae_Eriophyidae	GE	Central China
+HN318_5	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.8574	27.2352	188	1661	41	577	78	24	222	0	Gymnospermae_Eriophyidae	GE	Central China
+HN324_1	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Dicotyledoneae_Eriophyidae	DED	Central China
+HN324_2	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Dicotyledoneae_Eriophyidae	DED	Central China
+HN324_3	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Dicotyledoneae_Eriophyidae	DED	Central China
+HN324_4	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Dicotyledoneae_Eriophyidae	DED	Central China
+HN324_5	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Dicotyledoneae_Eriophyidae	DED	Central China
+HN329_1	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Gymnospermae_Eriophyidae	GE	Central China
+HN329_2	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Gymnospermae_Eriophyidae	GE	Central China
+HN329_3	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Gymnospermae_Eriophyidae	GE	Central China
+HN329_4	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Gymnospermae_Eriophyidae	GE	Central China
+HN329_5	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Gymnospermae_Eriophyidae	GE	Central China
+HN330_1	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Gymnospermae_Eriophyidae	GE	Central China
+HN330_2	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Gymnospermae_Eriophyidae	GE	Central China
+HN330_3	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Gymnospermae_Eriophyidae	GE	Central China
+HN330_4	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Gymnospermae_Eriophyidae	GE	Central China
+HN330_5	HN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Gymnospermae_Eriophyidae	GE	Central China
+HN332_1	HN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Monocotyledoneae_Eriophyidae	MED	Central China
+HN332_2	HN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Monocotyledoneae_Eriophyidae	MED	Central China
+HN332_3	HN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Monocotyledoneae_Eriophyidae	MED	Central China
+HN332_4	HN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Monocotyledoneae_Eriophyidae	MED	Central China
+HN332_5	HN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Monocotyledoneae_Eriophyidae	MED	Central China
+HN337_1	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Dicotyledoneae_Eriophyidae	DED	Central China
+HN337_2	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Dicotyledoneae_Eriophyidae	DED	Central China
+HN337_3	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Dicotyledoneae_Eriophyidae	DED	Central China
+HN337_4	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Dicotyledoneae_Eriophyidae	DED	Central China
+HN337_5	HN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	112.7054	27.2735	740	1735	41	610	75	24	214	67	Dicotyledoneae_Eriophyidae	DED	Central China
+JL18_1	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	126.3864	42.3411	630	824	94	510	130	24	197	0	Dicotyledoneae_Eriophyidae	DED	North East
+JL18_2	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	126.3864	42.3411	630	824	94	510	130	24	197	0	Dicotyledoneae_Eriophyidae	DED	North East
+JL18_3	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	126.3864	42.3411	630	824	94	510	130	24	197	0	Dicotyledoneae_Eriophyidae	DED	North East
+JL18_4	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	126.3864	42.3411	630	824	94	510	130	24	197	0	Dicotyledoneae_Eriophyidae	DED	North East
+JL33_1	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	128.1206	42.4367	700	688	92	426	128	26	179	0	Dicotyledoneae_Eriophyidae	DED	North East
+JL33_2	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	128.1206	42.4367	700	688	92	426	128	26	179	0	Dicotyledoneae_Eriophyidae	DED	North East
+JL33_4	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	128.1206	42.4367	700	688	92	426	128	26	179	0	Dicotyledoneae_Eriophyidae	DED	North East
+JL33_5	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	128.1206	42.4367	700	688	92	426	128	26	179	0	Dicotyledoneae_Eriophyidae	DED	North East
+JL37_1	JL	Gymnospermae	Eriophyidae	Temperate mixed forest	128.1206	42.4367	700	688	92	426	128	26	179	0	Gymnospermae_Eriophyidae	GE	North East
+JL37_2	JL	Gymnospermae	Eriophyidae	Temperate mixed forest	128.1206	42.4367	700	688	92	426	128	26	179	0	Gymnospermae_Eriophyidae	GE	North East
+JL37_3	JL	Gymnospermae	Eriophyidae	Temperate mixed forest	128.1206	42.4367	700	688	92	426	128	26	179	0	Gymnospermae_Eriophyidae	GE	North East
+JL37_4	JL	Gymnospermae	Eriophyidae	Temperate mixed forest	128.1206	42.4367	700	688	92	426	128	26	179	0	Gymnospermae_Eriophyidae	GE	North East
+JL37_5	JL	Gymnospermae	Eriophyidae	Temperate mixed forest	128.1206	42.4367	700	688	92	426	128	26	179	0	Gymnospermae_Eriophyidae	GE	North East
+JL42_1	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	128.3097	43.8553	220	673	96	427	130	25	178	84	Dicotyledoneae_Eriophyidae	DED	North East
+JL42_2	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	128.3097	43.8553	220	673	96	427	130	25	178	84	Dicotyledoneae_Eriophyidae	DED	North East
+JL42_3	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	128.3097	43.8553	220	673	96	427	130	25	178	84	Dicotyledoneae_Eriophyidae	DED	North East
+JL42_4	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	128.3097	43.8553	220	673	96	427	130	25	178	84	Dicotyledoneae_Eriophyidae	DED	North East
+JL45_1	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	128.3097	43.8553	220	673	96	427	130	25	178	84	Dicotyledoneae_Eriophyidae	DED	North East
+JL45_2	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	128.3097	43.8553	220	673	96	427	130	25	178	84	Dicotyledoneae_Eriophyidae	DED	North East
+JL45_3	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	128.3097	43.8553	220	673	96	427	130	25	178	84	Dicotyledoneae_Eriophyidae	DED	North East
+JL45_4	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	128.3097	43.8553	220	673	96	427	130	25	178	84	Dicotyledoneae_Eriophyidae	DED	North East
+JL47_1	JL	Monocotyledoneae	Eriophyidae	Temperate mixed forest	128.3097	43.8553	220	673	96	427	130	25	178	84	Monocotyledoneae_Eriophyidae	MED	North East
+JL47_2	JL	Monocotyledoneae	Eriophyidae	Temperate mixed forest	128.3097	43.8553	220	673	96	427	130	25	178	84	Monocotyledoneae_Eriophyidae	MED	North East
+JL47_3	JL	Monocotyledoneae	Eriophyidae	Temperate mixed forest	128.3097	43.8553	220	673	96	427	130	25	178	84	Monocotyledoneae_Eriophyidae	MED	North East
+JL47_4	JL	Monocotyledoneae	Eriophyidae	Temperate mixed forest	128.3097	43.8553	220	673	96	427	130	25	178	84	Monocotyledoneae_Eriophyidae	MED	North East
+JL47_5	JL	Monocotyledoneae	Eriophyidae	Temperate mixed forest	128.3097	43.8553	220	673	96	427	130	25	178	84	Monocotyledoneae_Eriophyidae	MED	North East
+JL50_1	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	128.3097	43.8553	220	673	96	427	130	25	178	84	Dicotyledoneae_Eriophyidae	DED	North East
+JL50_2	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	128.3097	43.8553	220	673	96	427	130	25	178	84	Dicotyledoneae_Eriophyidae	DED	North East
+JL50_3	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	128.3097	43.8553	220	673	96	427	130	25	178	84	Dicotyledoneae_Eriophyidae	DED	North East
+JL50_4	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	128.3097	43.8553	220	673	96	427	130	25	178	84	Dicotyledoneae_Eriophyidae	DED	North East
+JL50_5	JL	Dicotyledoneae	Eriophyidae	Temperate mixed forest	128.3097	43.8553	220	673	96	427	130	25	178	84	Dicotyledoneae_Eriophyidae	DED	North East
+JX13_1	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	115.4208	25.0003	420	1716	58	611	85	31	219	30	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX13_2	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	115.4208	25.0003	420	1716	58	611	85	31	219	30	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX13_3	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	115.4208	25.0003	420	1716	58	611	85	31	219	30	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX20_1	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	114.1244	26.5819	980	1728	47	557	75	25	184	66	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX20_2	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	114.1244	26.5819	980	1728	47	557	75	25	184	66	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX20_3	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	114.1244	26.5819	980	1728	47	557	75	25	184	66	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX20_4	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	114.1244	26.5819	980	1728	47	557	75	25	184	66	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX20_5	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	114.1244	26.5819	980	1728	47	557	75	25	184	66	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX26_1	JX	Gymnospermae	Phytoptidae	Subtropical evergreen broad-leaved forest	114.1244	26.5819	980	1728	47	557	75	25	184	66	Gymnospermae_Phytoptidae	GP	Central China
+JX26_2	JX	Gymnospermae	Phytoptidae	Subtropical evergreen broad-leaved forest	114.1244	26.5819	980	1728	47	557	75	25	184	66	Gymnospermae_Phytoptidae	GP	Central China
+JX26_3	JX	Gymnospermae	Phytoptidae	Subtropical evergreen broad-leaved forest	114.1244	26.5819	980	1728	47	557	75	25	184	66	Gymnospermae_Phytoptidae	GP	Central China
+JX26_4	JX	Gymnospermae	Phytoptidae	Subtropical evergreen broad-leaved forest	114.1244	26.5819	980	1728	47	557	75	25	184	66	Gymnospermae_Phytoptidae	GP	Central China
+JX26_5	JX	Gymnospermae	Phytoptidae	Subtropical evergreen broad-leaved forest	114.1244	26.5819	980	1728	47	557	75	25	184	66	Gymnospermae_Phytoptidae	GP	Central China
+JX31_1	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.8378	27.6714	210	1595	46	489	82	25	215	7	Dicotyledoneae_Eriophyidae	DED	Central China
+JX31_2	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.8378	27.6714	210	1595	46	489	82	25	215	7	Dicotyledoneae_Eriophyidae	DED	Central China
+JX31_3	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.8378	27.6714	210	1595	46	489	82	25	215	7	Dicotyledoneae_Eriophyidae	DED	Central China
+JX31_4	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.8378	27.6714	210	1595	46	489	82	25	215	7	Dicotyledoneae_Eriophyidae	DED	Central China
+JX31_5	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	113.8378	27.6714	210	1595	46	489	82	25	215	7	Dicotyledoneae_Eriophyidae	DED	Central China
+JX34_1	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	114.1672	27.4606	1280	1658	47	517	79	25	202	55	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX34_2	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	114.1672	27.4606	1280	1658	47	517	79	25	202	55	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX34_3	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	114.1672	27.4606	1280	1658	47	517	79	25	202	55	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX34_4	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	114.1672	27.4606	1280	1658	47	517	79	25	202	55	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX34_5	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	114.1672	27.4606	1280	1658	47	517	79	25	202	55	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX35_K_1	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	114.1672	27.4606	1280	1658	47	517	79	25	202	55	Dicotyledoneae_Eriophyidae	DED	Central China
+JX35_K_2	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	114.1672	27.4606	1280	1658	47	517	79	25	202	55	Dicotyledoneae_Eriophyidae	DED	Central China
+JX35_K_3	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	114.1672	27.4606	1280	1658	47	517	79	25	202	55	Dicotyledoneae_Eriophyidae	DED	Central China
+JX35_Z_4	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	114.1672	27.4606	1280	1658	47	517	79	25	202	55	Dicotyledoneae_Eriophyidae	DED	Central China
+JX35_Z_5	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	114.1672	27.4606	1280	1658	47	517	79	25	202	55	Dicotyledoneae_Eriophyidae	DED	Central China
+JX35_Z_6	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	114.1672	27.4606	1280	1658	47	517	79	25	202	55	Dicotyledoneae_Eriophyidae	DED	Central China
+JX38_1	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	114.1672	27.4606	1280	1658	47	517	79	25	202	55	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX38_2	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	114.1672	27.4606	1280	1658	47	517	79	25	202	55	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX38_3	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	114.1672	27.4606	1280	1658	47	517	79	25	202	55	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX38_4	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	114.1672	27.4606	1280	1658	47	517	79	25	202	55	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX40_1	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	114.1672	27.4606	1280	1658	47	517	79	25	202	55	Dicotyledoneae_Eriophyidae	DED	Central China
+JX40_2	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	114.1672	27.4606	1280	1658	47	517	79	25	202	55	Dicotyledoneae_Eriophyidae	DED	Central China
+JX40_3	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	114.1672	27.4606	1280	1658	47	517	79	25	202	55	Dicotyledoneae_Eriophyidae	DED	Central China
+JX47_1	JX	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	115.9114	28.685	30	732	43	244	77	24	214	4	Gymnospermae_Eriophyidae	GE	Central China
+JX47_2	JX	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	115.9114	28.685	30	732	43	244	77	24	214	4	Gymnospermae_Eriophyidae	GE	Central China
+JX47_3	JX	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	115.9114	28.685	30	732	43	244	77	24	214	4	Gymnospermae_Eriophyidae	GE	Central China
+JX47_4	JX	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	115.9114	28.685	30	732	43	244	77	24	214	4	Gymnospermae_Eriophyidae	GE	Central China
+JX47_5	JX	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	115.9114	28.685	30	732	43	244	77	24	214	4	Gymnospermae_Eriophyidae	GE	Central China
+JX54_1	JX	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	115.9678	29.5703	1040	1652	48	659	76	24	267	41	Gymnospermae_Eriophyidae	GE	Central China
+JX54_2	JX	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	115.9678	29.5703	1040	1652	48	659	76	24	267	41	Gymnospermae_Eriophyidae	GE	Central China
+JX54_3	JX	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	115.9678	29.5703	1040	1652	48	659	76	24	267	41	Gymnospermae_Eriophyidae	GE	Central China
+JX54_4	JX	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	115.9678	29.5703	1040	1652	48	659	76	24	267	41	Gymnospermae_Eriophyidae	GE	Central China
+JX55_1	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	115.9678	29.5703	1040	1652	48	659	76	24	267	41	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX55_2	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	115.9678	29.5703	1040	1652	48	659	76	24	267	41	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX55_3	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	115.9678	29.5703	1040	1652	48	659	76	24	267	41	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX55_4	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	115.9678	29.5703	1040	1652	48	659	76	24	267	41	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX55_5	JX	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	115.9678	29.5703	1040	1652	48	659	76	24	267	41	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+JX59_1	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	115.9678	29.5703	1040	1652	48	659	76	24	267	41	Dicotyledoneae_Eriophyidae	DED	Central China
+JX59_2	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	115.9678	29.5703	1040	1652	48	659	76	24	267	41	Dicotyledoneae_Eriophyidae	DED	Central China
+JX59_3	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	115.9678	29.5703	1040	1652	48	659	76	24	267	41	Dicotyledoneae_Eriophyidae	DED	Central China
+JX59_4	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	115.9678	29.5703	1040	1652	48	659	76	24	267	41	Dicotyledoneae_Eriophyidae	DED	Central China
+JX59_5	JX	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	115.9678	29.5703	1040	1652	48	659	76	24	267	41	Dicotyledoneae_Eriophyidae	DED	Central China
+LN19_1	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	123.7356	42	170	705	97	439	118	24	233	0	Dicotyledoneae_Eriophyidae	DED	North East
+LN19_2	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	123.7356	42	170	705	97	439	118	24	233	0	Dicotyledoneae_Eriophyidae	DED	North East
+LN19_4	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	123.7356	42	170	705	97	439	118	24	233	0	Dicotyledoneae_Eriophyidae	DED	North East
+LN24_1	LN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	123.7356	42	170	705	97	439	118	24	233	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+LN24_2	LN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	123.7356	42	170	705	97	439	118	24	233	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+LN24_3	LN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	123.7356	42	170	705	97	439	118	24	233	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+LN24_4	LN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	123.7356	42	170	705	97	439	118	24	233	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+LN24_5	LN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	123.7356	42	170	705	97	439	118	24	233	0	Dicotyledoneae_Diptilomiopidae 	DED	North East
+LN26_2	LN	Gymnospermae	Eriophyidae	Temperate broad-leaved forests	123.7356	42	170	705	97	439	118	24	233	0	Gymnospermae_Eriophyidae	GE	North East
+LN26_3	LN	Gymnospermae	Eriophyidae	Temperate broad-leaved forests	123.7356	42	170	705	97	439	118	24	233	0	Gymnospermae_Eriophyidae	GE	North East
+LN26_4	LN	Gymnospermae	Eriophyidae	Temperate broad-leaved forests	123.7356	42	170	705	97	439	118	24	233	0	Gymnospermae_Eriophyidae	GE	North East
+LN26_5	LN	Gymnospermae	Eriophyidae	Temperate broad-leaved forests	123.7356	42	170	705	97	439	118	24	233	0	Gymnospermae_Eriophyidae	GE	North East
+LN28_2	LN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	121.7161	41.61	140	573	105	373	110	24	233	10	Dicotyledoneae_Diptilomiopidae 	DED	Mongolia_Xinjiang Region
+LN28_3	LN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	121.7161	41.61	140	573	105	373	110	24	233	10	Dicotyledoneae_Diptilomiopidae 	DED	Mongolia_Xinjiang Region
+LN28_4	LN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	121.7161	41.61	140	573	105	373	110	24	233	10	Dicotyledoneae_Diptilomiopidae 	DED	Mongolia_Xinjiang Region
+LN28_5	LN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	121.7161	41.61	140	573	105	373	110	24	233	10	Dicotyledoneae_Diptilomiopidae 	DED	Mongolia_Xinjiang Region
+LN29_1	LN	Monocotyledoneae	Eriophyidae	Temperate broad-leaved forests	121.7161	41.61	140	573	105	373	110	24	233	10	Monocotyledoneae_Eriophyidae	MED	Mongolia_Xinjiang Region
+LN29_2	LN	Monocotyledoneae	Eriophyidae	Temperate broad-leaved forests	121.7161	41.61	140	573	105	373	110	24	233	10	Monocotyledoneae_Eriophyidae	MED	Mongolia_Xinjiang Region
+LN29_5	LN	Monocotyledoneae	Eriophyidae	Temperate broad-leaved forests	121.7161	41.61	140	573	105	373	110	24	233	10	Monocotyledoneae_Eriophyidae	MED	Mongolia_Xinjiang Region
+LN31_2	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	121.7161	41.61	140	573	105	373	110	24	233	10	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+LN31_3	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	121.7161	41.61	140	573	105	373	110	24	233	10	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+LN31_5	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	121.7161	41.61	140	573	105	373	110	24	233	10	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+LN34_1	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	121.7161	41.61	140	573	105	373	110	24	233	10	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+LN34_3	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	121.7161	41.61	140	573	105	373	110	24	233	10	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+LN34_5	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	121.7161	41.61	140	573	105	373	110	24	233	10	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+LN41_1	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	122.9569	40.0381	150	787	98	484	90	22	213	83	Dicotyledoneae_Eriophyidae	DED	North East
+LN41_2	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	122.9569	40.0381	150	787	98	484	90	22	213	83	Dicotyledoneae_Eriophyidae	DED	North East
+LN41_3	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	122.9569	40.0381	150	787	98	484	90	22	213	83	Dicotyledoneae_Eriophyidae	DED	North East
+LN41_4	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	122.9569	40.0381	150	787	98	484	90	22	213	83	Dicotyledoneae_Eriophyidae	DED	North East
+LN41_5	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	122.9569	40.0381	150	787	98	484	90	22	213	83	Dicotyledoneae_Eriophyidae	DED	North East
+LN48_1	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Eriophyidae	DED	North East
+LN48_2	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Eriophyidae	DED	North East
+LN48_3	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Eriophyidae	DED	North East
+LN48_4	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Eriophyidae	DED	North East
+LN49_2	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Eriophyidae	DED	North East
+LN49_3	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Eriophyidae	DED	North East
+LN49_4	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Eriophyidae	DED	North East
+LN49_5	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Eriophyidae	DED	North East
+LN51_1	LN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Diptilomiopidae 	DED	North East
+LN51_2	LN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Diptilomiopidae 	DED	North East
+LN51_3	LN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Diptilomiopidae 	DED	North East
+LN51_4	LN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Diptilomiopidae 	DED	North East
+LN57_1	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Eriophyidae	DED	North East
+LN57_2	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Eriophyidae	DED	North East
+LN57_3	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Eriophyidae	DED	North East
+LN57_4	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Eriophyidae	DED	North East
+LN57_5	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Eriophyidae	DED	North East
+LN70_1	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Eriophyidae	DED	North East
+LN70_2	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Eriophyidae	DED	North East
+LN70_3	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Eriophyidae	DED	North East
+LN70_4	LN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Eriophyidae	DED	North East
+LN71_2	LN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Diptilomiopidae 	DED	North East
+LN71_3	LN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Diptilomiopidae 	DED	North East
+LN71_4	LN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	124.0647	40.4275	100	972	103	619	105	24	217	19	Dicotyledoneae_Diptilomiopidae 	DED	North East
+NM2_1	NM	Dicotyledoneae	Eriophyidae	Temperate grassland	108.27	41.1	1026	190	112	126	132	27	201	0	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+NM2_2	NM	Dicotyledoneae	Eriophyidae	Temperate grassland	108.27	41.1	1026	190	112	126	132	27	201	0	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+NM2_3	NM	Dicotyledoneae	Eriophyidae	Temperate grassland	108.27	41.1	1026	190	112	126	132	27	201	0	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+NM2_4	NM	Dicotyledoneae	Eriophyidae	Temperate grassland	108.27	41.1	1026	190	112	126	132	27	201	0	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+NM2_5	NM	Dicotyledoneae	Eriophyidae	Temperate grassland	108.27	41.1	1026	190	112	126	132	27	201	0	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+NM3_1	NM	Dicotyledoneae	Eriophyidae	Temperate grassland	111.41	40.48	1040	394	108	256	133	28	190	0	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+NM3_2	NM	Dicotyledoneae	Eriophyidae	Temperate grassland	111.41	40.48	1040	394	108	256	133	28	190	0	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+NM3_3	NM	Dicotyledoneae	Eriophyidae	Temperate grassland	111.41	40.48	1040	394	108	256	133	28	190	0	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+NM3_4	NM	Dicotyledoneae	Eriophyidae	Temperate grassland	111.41	40.48	1040	394	108	256	133	28	190	0	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+NM3_5	NM	Dicotyledoneae	Eriophyidae	Temperate grassland	111.41	40.48	1040	394	108	256	133	28	190	0	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+S136_1	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8358	32.0339	33	1013	53	451	86	25	267	0	Dicotyledoneae_Eriophyidae	DED	Central China
+S136_4	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8358	32.0339	33	1013	53	451	86	25	267	0	Dicotyledoneae_Eriophyidae	DED	Central China
+S136_5	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8358	32.0339	33	1013	53	451	86	25	267	0	Dicotyledoneae_Eriophyidae	DED	Central China
+S138_1	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8358	32.0339	33	1013	53	451	86	25	267	0	Gymnospermae_Eriophyidae	GE	Central China
+S138_2	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8358	32.0339	33	1013	53	451	86	25	267	0	Gymnospermae_Eriophyidae	GE	Central China
+S138_3	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8358	32.0339	33	1013	53	451	86	25	267	0	Gymnospermae_Eriophyidae	GE	Central China
+S138_4	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8358	32.0339	33	1013	53	451	86	25	267	0	Gymnospermae_Eriophyidae	GE	Central China
+S138_5	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8358	32.0339	33	1013	53	451	86	25	267	0	Gymnospermae_Eriophyidae	GE	Central China
+S159_1	S	Gymnospermae	Phytoptidae	Subtropical evergreen broad-leaved forest	118.91	31.5834	27	1116	49	474	84	25	271	0	Gymnospermae_Phytoptidae	GP	Central China
+S159_2	S	Gymnospermae	Phytoptidae	Subtropical evergreen broad-leaved forest	118.91	31.5834	27	1116	49	474	84	25	271	0	Gymnospermae_Phytoptidae	GP	Central China
+S159_3	S	Gymnospermae	Phytoptidae	Subtropical evergreen broad-leaved forest	118.91	31.5834	27	1116	49	474	84	25	271	0	Gymnospermae_Phytoptidae	GP	Central China
+S159_4	S	Gymnospermae	Phytoptidae	Subtropical evergreen broad-leaved forest	118.91	31.5834	27	1116	49	474	84	25	271	0	Gymnospermae_Phytoptidae	GP	Central China
+S159_5	S	Gymnospermae	Phytoptidae	Subtropical evergreen broad-leaved forest	118.91	31.5834	27	1116	49	474	84	25	271	0	Gymnospermae_Phytoptidae	GP	Central China
+S176_k_1	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	300	1013	53	451	86	25	267	NA	Gymnospermae_Eriophyidae	GE	Central China
+S176_k_2	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	300	1013	53	451	86	25	267	NA	Gymnospermae_Eriophyidae	GE	Central China
+S176_k_3	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	300	1013	53	451	86	25	267	NA	Gymnospermae_Eriophyidae	GE	Central China
+S176_k_4	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	300	1013	53	451	86	25	267	NA	Gymnospermae_Eriophyidae	GE	Central China
+S176_z_1	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	300	1013	53	451	86	25	267	NA	Gymnospermae_Eriophyidae	GE	Central China
+S176_z_2	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	300	1013	53	451	86	25	267	NA	Gymnospermae_Eriophyidae	GE	Central China
+S176_z_3	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	300	1013	53	451	86	25	267	NA	Gymnospermae_Eriophyidae	GE	Central China
+S176_z_4	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	300	1013	53	451	86	25	267	NA	Gymnospermae_Eriophyidae	GE	Central China
+S176_z_5	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	300	1013	53	451	86	25	267	NA	Gymnospermae_Eriophyidae	GE	Central China
+S179B_1	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	NA	Dicotyledoneae_Eriophyidae	DED	Central China
+S179B_2	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	NA	Dicotyledoneae_Eriophyidae	DED	Central China
+S179B_3	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	NA	Dicotyledoneae_Eriophyidae	DED	Central China
+S179B_4	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	NA	Dicotyledoneae_Eriophyidae	DED	Central China
+S179H_1	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	46	Dicotyledoneae_Eriophyidae	DED	Central China
+S179H_3	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	46	Dicotyledoneae_Eriophyidae	DED	Central China
+S179H_4	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	46	Dicotyledoneae_Eriophyidae	DED	Central China
+S181_1	S	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	46	Monocotyledoneae_Eriophyidae	MED	Central China
+S181_2	S	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	46	Monocotyledoneae_Eriophyidae	MED	Central China
+S181_3	S	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	46	Monocotyledoneae_Eriophyidae	MED	Central China
+S181_4	S	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	46	Monocotyledoneae_Eriophyidae	MED	Central China
+S181_5	S	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	46	Monocotyledoneae_Eriophyidae	MED	Central China
+S182_1	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8269	32.0514	10	998	53	444	88	26	269	29	Gymnospermae_Eriophyidae	GE	Central China
+S182_2	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8269	32.0514	10	998	53	444	88	26	269	29	Gymnospermae_Eriophyidae	GE	Central China
+S182_3	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8269	32.0514	10	998	53	444	88	26	269	29	Gymnospermae_Eriophyidae	GE	Central China
+S182_4	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8269	32.0514	10	998	53	444	88	26	269	29	Gymnospermae_Eriophyidae	GE	Central China
+S182_5	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8269	32.0514	10	998	53	444	88	26	269	29	Gymnospermae_Eriophyidae	GE	Central China
+S183_1	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8269	32.0514	10	998	53	444	88	26	269	29	Dicotyledoneae_Eriophyidae	DED	Central China
+S183_2	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8269	32.0514	10	998	53	444	88	26	269	29	Dicotyledoneae_Eriophyidae	DED	Central China
+S183_3	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8269	32.0514	10	998	53	444	88	26	269	29	Dicotyledoneae_Eriophyidae	DED	Central China
+S183_4	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8269	32.0514	10	998	53	444	88	26	269	29	Dicotyledoneae_Eriophyidae	DED	Central China
+S183_5	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8269	32.0514	10	998	53	444	88	26	269	29	Dicotyledoneae_Eriophyidae	DED	Central China
+S184_1	S	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	46	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+S184_2	S	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	46	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+S184_3	S	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	46	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+S184_4	S	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	46	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+S184_5	S	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	46	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+S185_1	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	46	Dicotyledoneae_Eriophyidae	DED	Central China
+S185_2	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	46	Dicotyledoneae_Eriophyidae	DED	Central China
+S185_3	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	46	Dicotyledoneae_Eriophyidae	DED	Central China
+S185_4	S	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.8506	32.0689	33	1013	53	451	86	25	267	46	Dicotyledoneae_Eriophyidae	DED	Central China
+S187_1	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.84	32.03	29	1013	53	451	86	25	267	18	Gymnospermae_Eriophyidae	GE	Central China
+S187_2	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.84	32.03	29	1013	53	451	86	25	267	18	Gymnospermae_Eriophyidae	GE	Central China
+S187_3	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.84	32.03	29	1013	53	451	86	25	267	18	Gymnospermae_Eriophyidae	GE	Central China
+S187_4	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.84	32.03	29	1013	53	451	86	25	267	18	Gymnospermae_Eriophyidae	GE	Central China
+S187_5	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.84	32.03	29	1013	53	451	86	25	267	18	Gymnospermae_Eriophyidae	GE	Central China
+S187_6	S	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	118.84	32.03	29	1013	53	451	86	25	267	18	Gymnospermae_Eriophyidae	GE	Central China
+SC107_1	SC	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.6135	30.9974	730	1124	93	648	79	28	231	0	Gymnospermae_Eriophyidae	GE	Central China
+SC107_2	SC	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.6135	30.9974	730	1124	93	648	79	28	231	0	Gymnospermae_Eriophyidae	GE	Central China
+SC107_3	SC	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.6135	30.9974	730	1124	93	648	79	28	231	0	Gymnospermae_Eriophyidae	GE	Central China
+SC107_4	SC	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.6135	30.9974	730	1124	93	648	79	28	231	0	Gymnospermae_Eriophyidae	GE	Central China
+SC107_5	SC	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.6135	30.9974	730	1124	93	648	79	28	231	0	Gymnospermae_Eriophyidae	GE	Central China
+SC114_1	SC	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.4911	30.9184	927	1073	86	590	85	31	201	32	Monocotyledoneae_Eriophyidae	MED	Central China
+SC114_2	SC	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.4911	30.9184	927	1073	86	590	85	31	201	32	Monocotyledoneae_Eriophyidae	MED	Central China
+SC114_3	SC	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.4911	30.9184	927	1073	86	590	85	31	201	32	Monocotyledoneae_Eriophyidae	MED	Central China
+SC114_4	SC	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.4911	30.9184	927	1073	86	590	85	31	201	32	Monocotyledoneae_Eriophyidae	MED	Central China
+SC114_5	SC	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.4911	30.9184	927	1073	86	590	85	31	201	32	Monocotyledoneae_Eriophyidae	MED	Central China
+SC16_1	SC	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	106.7551	31.8642	535	1130	76	519	82	28	241	29	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+SC16_2	SC	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	106.7551	31.8642	535	1130	76	519	82	28	241	29	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+SC16_3	SC	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	106.7551	31.8642	535	1130	76	519	82	28	241	29	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+SC17_1	SC	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	106.7551	31.8642	535	1130	76	519	82	28	241	29	Monocotyledoneae_Eriophyidae	MED	Central China
+SC17_2	SC	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	106.7551	31.8642	535	1130	76	519	82	28	241	29	Monocotyledoneae_Eriophyidae	MED	Central China
+SC17_3	SC	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	106.7551	31.8642	535	1130	76	519	82	28	241	29	Monocotyledoneae_Eriophyidae	MED	Central China
+SC23_1	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	106.7551	31.8642	535	1130	76	519	82	28	241	29	Dicotyledoneae_Eriophyidae	DED	Central China
+SC23_2	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	106.7551	31.8642	535	1130	76	519	82	28	241	29	Dicotyledoneae_Eriophyidae	DED	Central China
+SC23_3	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	106.7551	31.8642	535	1130	76	519	82	28	241	29	Dicotyledoneae_Eriophyidae	DED	Central China
+SC38_1	SC	Gymnospermae	Phytoptidae	Subtropical evergreen broad-leaved forest	103.862	33.0659	3004	802	75	379	135	40	92	92	Gymnospermae_Phytoptidae	GP	Central China
+SC38_2	SC	Gymnospermae	Phytoptidae	Subtropical evergreen broad-leaved forest	103.862	33.0659	3004	802	75	379	135	40	92	92	Gymnospermae_Phytoptidae	GP	Central China
+SC38_3	SC	Gymnospermae	Phytoptidae	Subtropical evergreen broad-leaved forest	103.862	33.0659	3004	802	75	379	135	40	92	92	Gymnospermae_Phytoptidae	GP	Central China
+SC38_4	SC	Gymnospermae	Phytoptidae	Subtropical evergreen broad-leaved forest	103.862	33.0659	3004	802	75	379	135	40	92	92	Gymnospermae_Phytoptidae	GP	Central China
+SC38_5	SC	Gymnospermae	Phytoptidae	Subtropical evergreen broad-leaved forest	103.862	33.0659	3004	802	75	379	135	40	92	92	Gymnospermae_Phytoptidae	GP	Central China
+SC46_1	SC	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	103.862	33.0659	3004	802	75	379	135	40	92	92	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+SC46_2	SC	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	103.862	33.0659	3004	802	75	379	135	40	92	92	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+SC46_3	SC	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	103.862	33.0659	3004	802	75	379	135	40	92	92	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+SC46_4	SC	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	103.862	33.0659	3004	802	75	379	135	40	92	92	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+SC46_5	SC	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	103.862	33.0659	3004	802	75	379	135	40	92	92	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+SC49_1	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.862	33.0659	3004	802	75	379	135	40	92	92	Dicotyledoneae_Eriophyidae	DED	Central China
+SC49_2	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.862	33.0659	3004	802	75	379	135	40	92	92	Dicotyledoneae_Eriophyidae	DED	Central China
+SC49_3	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.862	33.0659	3004	802	75	379	135	40	92	92	Dicotyledoneae_Eriophyidae	DED	Central China
+SC49_4	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.862	33.0659	3004	802	75	379	135	40	92	92	Dicotyledoneae_Eriophyidae	DED	Central China
+SC49_5	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.862	33.0659	3004	802	75	379	135	40	92	92	Dicotyledoneae_Eriophyidae	DED	Central China
+SC56_1	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.8701	30.9155	2367	718	85	371	123	41	160	16	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC56_2	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.8701	30.9155	2367	718	85	371	123	41	160	16	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC56_3	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.8701	30.9155	2367	718	85	371	123	41	160	16	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC56_4	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.8701	30.9155	2367	718	85	371	123	41	160	16	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC56_5	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.8701	30.9155	2367	718	85	371	123	41	160	16	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC59_1	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.8701	30.9155	2367	718	85	371	123	41	160	16	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC59_2	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.8701	30.9155	2367	718	85	371	123	41	160	16	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC59_3	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.8701	30.9155	2367	718	85	371	123	41	160	16	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC59_4	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.8701	30.9155	2367	718	85	371	123	41	160	16	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC62_1	SC	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	101.8701	30.9155	2367	718	85	371	123	41	160	16	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+SC62_2	SC	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	101.8701	30.9155	2367	718	85	371	123	41	160	16	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+SC62_3	SC	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	101.8701	30.9155	2367	718	85	371	123	41	160	16	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+SC62_4	SC	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	101.8701	30.9155	2367	718	85	371	123	41	160	16	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+SC62_5	SC	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	101.8701	30.9155	2367	718	85	371	123	41	160	16	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+SC65_1	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.9944	29.5702	3025	1092	94	658	120	42	32	6	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC65_2	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.9944	29.5702	3025	1092	94	658	120	42	32	6	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC65_3	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.9944	29.5702	3025	1092	94	658	120	42	32	6	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC65_4	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.9944	29.5702	3025	1092	94	658	120	42	32	6	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC65_5	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.9944	29.5702	3025	1092	94	658	120	42	32	6	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC67_1	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.9944	29.5702	3025	1092	94	658	120	42	32	6	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC67_2	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.9944	29.5702	3025	1092	94	658	120	42	32	6	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC67_3	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.9944	29.5702	3025	1092	94	658	120	42	32	6	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC67_4	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.9944	29.5702	3025	1092	94	658	120	42	32	6	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC67_5	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.9944	29.5702	3025	1092	94	658	120	42	32	6	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+SC75_1	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC75_2	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC75_3	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC75_4	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC75_5	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC77_1	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC77_2	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC77_3	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC77_4	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC77_5	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC78_1	SC	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+SC78_2	SC	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+SC78_3	SC	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+SC82_1	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC82_2	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC82_3	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC82_4	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC82_5	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC95_1	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC95_2	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC95_3	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC95_4	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC98_1	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC98_2	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC98_3	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC98_4	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SC98_5	SC	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	103.3359	29.5326	2517	1524	94	892	75	28	232	66	Dicotyledoneae_Eriophyidae	DED	Central China
+SD11_2	SD	Gymnospermae	Eriophyidae	Temperate broad-leaved forests	117.1006	36.255	1440	752	107	494	100	27	244	NA	Gymnospermae_Eriophyidae	GE	Northern China
+SD11_3	SD	Gymnospermae	Eriophyidae	Temperate broad-leaved forests	117.1006	36.255	1440	752	107	494	100	27	244	NA	Gymnospermae_Eriophyidae	GE	Northern China
+SD11_4	SD	Gymnospermae	Eriophyidae	Temperate broad-leaved forests	117.1006	36.255	1440	752	107	494	100	27	244	NA	Gymnospermae_Eriophyidae	GE	Northern China
+SH9_1	SH	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	121.4739	31.0489	10	1059	46	394	73	23	265	0	Gymnospermae_Eriophyidae	GE	Central China
+SH9_2	SH	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	121.4739	31.0489	10	1059	46	394	73	23	265	0	Gymnospermae_Eriophyidae	GE	Central China
+SH9_3	SH	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	121.4739	31.0489	10	1059	46	394	73	23	265	0	Gymnospermae_Eriophyidae	GE	Central China
+SH9_4	SH	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	121.4739	31.0489	10	1059	46	394	73	23	265	0	Gymnospermae_Eriophyidae	GE	Central China
+SH9_5	SH	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	121.4739	31.0489	10	1059	46	394	73	23	265	0	Gymnospermae_Eriophyidae	GE	Central China
+SN102_1	SN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SN102_2	SN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SN102_3	SN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SN102_4	SN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SN102_5	SN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SN103_1	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN103_2	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN103_3	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN103_4	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN103_5	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN108_1	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN108_2	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN108_3	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN108_4	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN108_5	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN114_1	SN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	109.4842	36.5844	990	528	88	293	128	31	200	29	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SN114_2	SN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	109.4842	36.5844	990	528	88	293	128	31	200	29	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SN114_3	SN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	109.4842	36.5844	990	528	88	293	128	31	200	29	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SN117_1	SN	Gymnospermae	Eriophyidae	Temperate broad-leaved forests	109.4842	36.5844	990	528	88	293	128	31	200	29	Gymnospermae_Eriophyidae	GE	Northern China
+SN117_2	SN	Gymnospermae	Eriophyidae	Temperate broad-leaved forests	109.4842	36.5844	990	528	88	293	128	31	200	29	Gymnospermae_Eriophyidae	GE	Northern China
+SN117_3	SN	Gymnospermae	Eriophyidae	Temperate broad-leaved forests	109.4842	36.5844	990	528	88	293	128	31	200	29	Gymnospermae_Eriophyidae	GE	Northern China
+SN117_4	SN	Gymnospermae	Eriophyidae	Temperate broad-leaved forests	109.4842	36.5844	990	528	88	293	128	31	200	29	Gymnospermae_Eriophyidae	GE	Northern China
+SN117_5	SN	Gymnospermae	Eriophyidae	Temperate broad-leaved forests	109.4842	36.5844	990	528	88	293	128	31	200	29	Gymnospermae_Eriophyidae	GE	Northern China
+SN43_1	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	109.1958	34.2944	830	619	70	274	101	27	235	34	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN43_3	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	109.1958	34.2944	830	619	70	274	101	27	235	34	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN43_4	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	109.1958	34.2944	830	619	70	274	101	27	235	34	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN43_5	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	109.1958	34.2944	830	619	70	274	101	27	235	34	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN50_3	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN50_4	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN50_5	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN51_1	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN51_3	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN51_4	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN51_5	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN57_1	SN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SN57_2	SN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SN57_3	SN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SN57_4	SN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SN57_5	SN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SN58_1	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN58_2	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN58_3	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN58_4	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN58_5	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN63_1	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN63_2	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN63_3	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN63_4	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN63_5	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	107.8281	34.0117	2450	807	74	365	84	26	181	100	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN70_1	SN	Gymnospermae	Eriophyidae	Temperate broad-leaved forests	107.1467	34.3564	590	684	76	314	95	27	223	0	Gymnospermae_Eriophyidae	GE	Northern China
+SN70_2	SN	Gymnospermae	Eriophyidae	Temperate broad-leaved forests	107.1467	34.3564	590	684	76	314	95	27	223	0	Gymnospermae_Eriophyidae	GE	Northern China
+SN70_3	SN	Gymnospermae	Eriophyidae	Temperate broad-leaved forests	107.1467	34.3564	590	684	76	314	95	27	223	0	Gymnospermae_Eriophyidae	GE	Northern China
+SN70_4	SN	Gymnospermae	Eriophyidae	Temperate broad-leaved forests	107.1467	34.3564	590	684	76	314	95	27	223	0	Gymnospermae_Eriophyidae	GE	Northern China
+SN70_5	SN	Gymnospermae	Eriophyidae	Temperate broad-leaved forests	107.1467	34.3564	590	684	76	314	95	27	223	0	Gymnospermae_Eriophyidae	GE	Northern China
+SN88_1	SN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	108.2997	33.1458	660	843	73	368	92	28	237	72	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+SN88_2	SN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	108.2997	33.1458	660	843	73	368	92	28	237	72	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+SN88_3	SN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	108.2997	33.1458	660	843	73	368	92	28	237	72	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+SN88_4	SN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	108.2997	33.1458	660	843	73	368	92	28	237	72	Dicotyledoneae_Diptilomiopidae 	DED	Central China
+SN94_1	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN94_2	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN94_3	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN94_4	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN94_5	SN	Dicotyledoneae	Eriophyidae	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Eriophyidae	DED	Northern China
+SN96_1	SN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SN96_2	SN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SN96_3	SN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SN96_4	SN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SN96_5	SN	Dicotyledoneae	Diptilomiopidae 	Temperate broad-leaved forests	110.0819	34.4922	1830	775	69	353	81	24	184	10	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SX16_1	SX	Dicotyledoneae	Diptilomiopidae 	Temperate grassland	113.1449	40.1103	1137	398	104	261	132	29	193	0	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SX16_2	SX	Dicotyledoneae	Diptilomiopidae 	Temperate grassland	113.1449	40.1103	1137	398	104	261	132	29	193	0	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SX16_3	SX	Dicotyledoneae	Diptilomiopidae 	Temperate grassland	113.1449	40.1103	1137	398	104	261	132	29	193	0	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SX16_4	SX	Dicotyledoneae	Diptilomiopidae 	Temperate grassland	113.1449	40.1103	1137	398	104	261	132	29	193	0	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+SX16_5	SX	Dicotyledoneae	Diptilomiopidae 	Temperate grassland	113.1449	40.1103	1137	398	104	261	132	29	193	0	Dicotyledoneae_Diptilomiopidae 	DED	Northern China
+X6_1	X	Dicotyledoneae	Eriophyidae	Temperate desert climate	84.2591	41.7829	944	65	78	39	133	28	245	12	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+X6_2	X	Dicotyledoneae	Eriophyidae	Temperate desert climate	84.2591	41.7829	944	65	78	39	133	28	245	12	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+X6_3	X	Dicotyledoneae	Eriophyidae	Temperate desert climate	84.2591	41.7829	944	65	78	39	133	28	245	12	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+X6_4	X	Dicotyledoneae	Eriophyidae	Temperate desert climate	84.2591	41.7829	944	65	78	39	133	28	245	12	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+X6_5	X	Dicotyledoneae	Eriophyidae	Temperate desert climate	84.2591	41.7829	944	65	78	39	133	28	245	12	Dicotyledoneae_Eriophyidae	DED	Mongolia_Xinjiang Region
+XZ10_1	XZ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	94.5393	29.4645	2946	598	92	345	128	45	128	0	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+XZ10_2	XZ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	94.5393	29.4645	2946	598	92	345	128	45	128	0	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+XZ10_3	XZ	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	94.5393	29.4645	2946	598	92	345	128	45	128	0	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+XZ11_1	XZ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	94.5393	29.4645	2946	598	92	345	128	45	128	0	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+XZ11_2	XZ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	94.5393	29.4645	2946	598	92	345	128	45	128	0	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+XZ11_3	XZ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	94.5393	29.4645	2946	598	92	345	128	45	128	0	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+XZ11_4	XZ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	94.5393	29.4645	2946	598	92	345	128	45	128	0	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+XZ11_5	XZ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	94.5393	29.4645	2946	598	92	345	128	45	128	0	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+XZ13_1	XZ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	94.5393	29.4645	2946	598	92	345	128	45	128	0	Gymnospermae_Eriophyidae	GE	Southwest Region
+XZ13_2	XZ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	94.5393	29.4645	2946	598	92	345	128	45	128	0	Gymnospermae_Eriophyidae	GE	Southwest Region
+XZ13_3	XZ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	94.5393	29.4645	2946	598	92	345	128	45	128	0	Gymnospermae_Eriophyidae	GE	Southwest Region
+XZ13_4	XZ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	94.5393	29.4645	2946	598	92	345	128	45	128	0	Gymnospermae_Eriophyidae	GE	Southwest Region
+XZ13_5	XZ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	94.5393	29.4645	2946	598	92	345	128	45	128	0	Gymnospermae_Eriophyidae	GE	Southwest Region
+XZ17_1	XZ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	94.5393	29.4645	2946	598	92	345	128	45	128	0	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+XZ17_2	XZ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	94.5393	29.4645	2946	598	92	345	128	45	128	0	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+XZ17_3	XZ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	94.5393	29.4645	2946	598	92	345	128	45	128	0	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+XZ17_4	XZ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	94.5393	29.4645	2946	598	92	345	128	45	128	0	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+XZ17_5	XZ	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	94.5393	29.4645	2946	598	92	345	128	45	128	0	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+XZ42_1	XZ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	95.6197	29.7148	3049	674	91	396	128	44	122	69	Gymnospermae_Eriophyidae	GE	Southwest Region
+XZ42_2	XZ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	95.6197	29.7148	3049	674	91	396	128	44	122	69	Gymnospermae_Eriophyidae	GE	Southwest Region
+XZ42_3	XZ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	95.6197	29.7148	3049	674	91	396	128	44	122	69	Gymnospermae_Eriophyidae	GE	Southwest Region
+XZ42_4	XZ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	95.6197	29.7148	3049	674	91	396	128	44	122	69	Gymnospermae_Eriophyidae	GE	Southwest Region
+XZ42_5	XZ	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	95.6197	29.7148	3049	674	91	396	128	44	122	69	Gymnospermae_Eriophyidae	GE	Southwest Region
+XZ51_1	XZ	Monocotyledoneae	Eriophyidae	Tropical rainforest	95.2754	29.3076	1161	1789	92	1074	116	44	218	56	Monocotyledoneae_Eriophyidae	MED	Southwest Region
+XZ51_2	XZ	Monocotyledoneae	Eriophyidae	Tropical rainforest	95.2754	29.3076	1161	1789	92	1074	116	44	218	56	Monocotyledoneae_Eriophyidae	MED	Southwest Region
+XZ51_3	XZ	Monocotyledoneae	Eriophyidae	Tropical rainforest	95.2754	29.3076	1161	1789	92	1074	116	44	218	56	Monocotyledoneae_Eriophyidae	MED	Southwest Region
+XZ57_1	XZ	Dicotyledoneae	Eriophyidae	Tropical rainforest	95.1716	29.2375	796	1789	92	1074	116	44	218	23	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+XZ57_2	XZ	Dicotyledoneae	Eriophyidae	Tropical rainforest	95.1716	29.2375	796	1789	92	1074	116	44	218	23	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+XZ57_3	XZ	Dicotyledoneae	Eriophyidae	Tropical rainforest	95.1716	29.2375	796	1789	92	1074	116	44	218	23	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+XZ59_1	XZ	Dicotyledoneae	Eriophyidae	Tropical rainforest	95.1716	29.2375	796	1789	92	1074	116	44	218	23	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+XZ59_2	XZ	Dicotyledoneae	Eriophyidae	Tropical rainforest	95.1716	29.2375	796	1789	92	1074	116	44	218	23	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+XZ59_3	XZ	Dicotyledoneae	Eriophyidae	Tropical rainforest	95.1716	29.2375	796	1789	92	1074	116	44	218	23	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+XZ59_4	XZ	Dicotyledoneae	Eriophyidae	Tropical rainforest	95.1716	29.2375	796	1789	92	1074	116	44	218	23	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+XZ59_5	XZ	Dicotyledoneae	Eriophyidae	Tropical rainforest	95.1716	29.2375	796	1789	92	1074	116	44	218	23	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+XZ76_1	XZ	Dicotyledoneae	Diptilomiopidae 	Tibetan plateau climate	91.1155	29.6519	3654	378	129	288	147	44	137	12	Dicotyledoneae_Diptilomiopidae 	DED	Tibetan Plateau
+XZ76_2	XZ	Dicotyledoneae	Diptilomiopidae 	Tibetan plateau climate	91.1155	29.6519	3654	378	129	288	147	44	137	12	Dicotyledoneae_Diptilomiopidae 	DED	Tibetan Plateau
+XZ76_3	XZ	Dicotyledoneae	Diptilomiopidae 	Tibetan plateau climate	91.1155	29.6519	3654	378	129	288	147	44	137	12	Dicotyledoneae_Diptilomiopidae 	DED	Tibetan Plateau
+XZ76_4	XZ	Dicotyledoneae	Diptilomiopidae 	Tibetan plateau climate	91.1155	29.6519	3654	378	129	288	147	44	137	12	Dicotyledoneae_Diptilomiopidae 	DED	Tibetan Plateau
+XZ76_5	XZ	Dicotyledoneae	Diptilomiopidae 	Tibetan plateau climate	91.1155	29.6519	3654	378	129	288	147	44	137	12	Dicotyledoneae_Diptilomiopidae 	DED	Tibetan Plateau
+XZ79_1	XZ	Gymnospermae	Eriophyidae	Tibetan plateau climate	91.1155	29.6519	3654	378	129	288	147	44	137	12	Gymnospermae_Eriophyidae	GE	Tibetan Plateau
+XZ79_2	XZ	Gymnospermae	Eriophyidae	Tibetan plateau climate	91.1155	29.6519	3654	378	129	288	147	44	137	12	Gymnospermae_Eriophyidae	GE	Tibetan Plateau
+XZ79_3	XZ	Gymnospermae	Eriophyidae	Tibetan plateau climate	91.1155	29.6519	3654	378	129	288	147	44	137	12	Gymnospermae_Eriophyidae	GE	Tibetan Plateau
+XZ79_4	XZ	Gymnospermae	Eriophyidae	Tibetan plateau climate	91.1155	29.6519	3654	378	129	288	147	44	137	12	Gymnospermae_Eriophyidae	GE	Tibetan Plateau
+XZ79_5	XZ	Gymnospermae	Eriophyidae	Tibetan plateau climate	91.1155	29.6519	3654	378	129	288	147	44	137	12	Gymnospermae_Eriophyidae	GE	Tibetan Plateau
+YN492_1	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	102.6635	24.9615	1891	995	88	585	105	46	201	254	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+YN492_2	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	102.6635	24.9615	1891	995	88	585	105	46	201	254	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+YN492_3	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	102.6635	24.9615	1891	995	88	585	105	46	201	254	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+YN492_4	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	102.6635	24.9615	1891	995	88	585	105	46	201	254	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+YN492_5	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	102.6635	24.9615	1891	995	88	585	105	46	201	254	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+YN493_1	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	102.6635	24.9615	1891	995	88	585	105	46	201	254	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN493_2	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	102.6635	24.9615	1891	995	88	585	105	46	201	254	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN493_3	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	102.6635	24.9615	1891	995	88	585	105	46	201	254	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN493_4	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	102.6635	24.9615	1891	995	88	585	105	46	201	254	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN493_5	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	102.6635	24.9615	1891	995	88	585	105	46	201	254	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN497_1	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	102.6635	24.9615	1891	995	88	585	105	46	201	254	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN497_2	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	102.6635	24.9615	1891	995	88	585	105	46	201	254	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN497_3	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	102.6635	24.9615	1891	995	88	585	105	46	201	254	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN497_4	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	102.6635	24.9615	1891	995	88	585	105	46	201	254	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN497_5	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	102.6635	24.9615	1891	995	88	585	105	46	201	254	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN500_1	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Dicotyledoneae_Eriophyidae	DED	South China
+YN500_2	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Dicotyledoneae_Eriophyidae	DED	South China
+YN500_3	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Dicotyledoneae_Eriophyidae	DED	South China
+YN500_4	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Dicotyledoneae_Eriophyidae	DED	South China
+YN500_5	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Dicotyledoneae_Eriophyidae	DED	South China
+YN501_1	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Gymnospermae_Eriophyidae	GE	South China
+YN501_2	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Gymnospermae_Eriophyidae	GE	South China
+YN501_3	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Gymnospermae_Eriophyidae	GE	South China
+YN501_4	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Gymnospermae_Eriophyidae	GE	South China
+YN501_5	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Gymnospermae_Eriophyidae	GE	South China
+YN504_1	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Dicotyledoneae_Eriophyidae	DED	South China
+YN504_2	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Dicotyledoneae_Eriophyidae	DED	South China
+YN504_3	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Dicotyledoneae_Eriophyidae	DED	South China
+YN504_4	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Dicotyledoneae_Eriophyidae	DED	South China
+YN504_5	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Dicotyledoneae_Eriophyidae	DED	South China
+YN506_1	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Dicotyledoneae_Diptilomiopidae 	DED	South China
+YN506_2	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Dicotyledoneae_Diptilomiopidae 	DED	South China
+YN506_3	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Dicotyledoneae_Diptilomiopidae 	DED	South China
+YN506_4	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Dicotyledoneae_Diptilomiopidae 	DED	South China
+YN506_5	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	101.993	24.0637	1474	1059	85	611	109	49	217	9	Dicotyledoneae_Diptilomiopidae 	DED	South China
+YN509_1	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.9694	23.9441	2311	1048	83	595	111	49	233	82	Dicotyledoneae_Eriophyidae	DED	South China
+YN509_2	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.9694	23.9441	2311	1048	83	595	111	49	233	82	Dicotyledoneae_Eriophyidae	DED	South China
+YN509_3	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.9694	23.9441	2311	1048	83	595	111	49	233	82	Dicotyledoneae_Eriophyidae	DED	South China
+YN509_4	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.9694	23.9441	2311	1048	83	595	111	49	233	82	Dicotyledoneae_Eriophyidae	DED	South China
+YN509_5	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	101.9694	23.9441	2311	1048	83	595	111	49	233	82	Dicotyledoneae_Eriophyidae	DED	South China
+YN526_1	YN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Monocotyledoneae_Eriophyidae	MED	South China
+YN526_2	YN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Monocotyledoneae_Eriophyidae	MED	South China
+YN526_3	YN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Monocotyledoneae_Eriophyidae	MED	South China
+YN526_4	YN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Monocotyledoneae_Eriophyidae	MED	South China
+YN526_5	YN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Monocotyledoneae_Eriophyidae	MED	South China
+YN527_1	YN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Monocotyledoneae_Eriophyidae	MED	South China
+YN527_2	YN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Monocotyledoneae_Eriophyidae	MED	South China
+YN527_3	YN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Monocotyledoneae_Eriophyidae	MED	South China
+YN527_4	YN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Monocotyledoneae_Eriophyidae	MED	South China
+YN527_5	YN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Monocotyledoneae_Eriophyidae	MED	South China
+YN528_1	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Dicotyledoneae_Eriophyidae	DED	South China
+YN528_2	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Dicotyledoneae_Eriophyidae	DED	South China
+YN528_3	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Dicotyledoneae_Eriophyidae	DED	South China
+YN528_4	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Dicotyledoneae_Eriophyidae	DED	South China
+YN528_5	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Dicotyledoneae_Eriophyidae	DED	South China
+YN529_1	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Dicotyledoneae_Eriophyidae	DED	South China
+YN529_2	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Dicotyledoneae_Eriophyidae	DED	South China
+YN529_3	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Dicotyledoneae_Eriophyidae	DED	South China
+YN529_4	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Dicotyledoneae_Eriophyidae	DED	South China
+YN529_5	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Dicotyledoneae_Eriophyidae	DED	South China
+YN533_1	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Gymnospermae_Eriophyidae	GE	South China
+YN533_2	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Gymnospermae_Eriophyidae	GE	South China
+YN533_3	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Gymnospermae_Eriophyidae	GE	South China
+YN533_4	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Gymnospermae_Eriophyidae	GE	South China
+YN533_5	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Gymnospermae_Eriophyidae	GE	South China
+YN534_1	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Dicotyledoneae_Eriophyidae	DED	South China
+YN534_2	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Dicotyledoneae_Eriophyidae	DED	South China
+YN534_3	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Dicotyledoneae_Eriophyidae	DED	South China
+YN534_4	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Dicotyledoneae_Eriophyidae	DED	South China
+YN534_5	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1859	23.9083	2469	1247	87	715	112	50	182	70	Dicotyledoneae_Eriophyidae	DED	South China
+YN548_1	YN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.4919	25.2115	1893	1477	78	805	112	48	187	37	Monocotyledoneae_Eriophyidae	MED	South China
+YN548_2	YN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.4919	25.2115	1893	1477	78	805	112	48	187	37	Monocotyledoneae_Eriophyidae	MED	South China
+YN548_3	YN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.4919	25.2115	1893	1477	78	805	112	48	187	37	Monocotyledoneae_Eriophyidae	MED	South China
+YN548_4	YN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.4919	25.2115	1893	1477	78	805	112	48	187	37	Monocotyledoneae_Eriophyidae	MED	South China
+YN548_5	YN	Monocotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.4919	25.2115	1893	1477	78	805	112	48	187	37	Monocotyledoneae_Eriophyidae	MED	South China
+YN553_1	YN	Monocotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	98.5003	25.0102	1643	1395	77	754	113	48	195	1	Monocotyledoneae_Diptilomiopidae 	MED	South China
+YN553_2	YN	Monocotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	98.5003	25.0102	1643	1395	77	754	113	48	195	1	Monocotyledoneae_Diptilomiopidae 	MED	South China
+YN553_3	YN	Monocotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	98.5003	25.0102	1643	1395	77	754	113	48	195	1	Monocotyledoneae_Diptilomiopidae 	MED	South China
+YN553_4	YN	Monocotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	98.5003	25.0102	1643	1395	77	754	113	48	195	1	Monocotyledoneae_Diptilomiopidae 	MED	South China
+YN553_5	YN	Monocotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	98.5003	25.0102	1643	1395	77	754	113	48	195	1	Monocotyledoneae_Diptilomiopidae 	MED	South China
+YN556_1	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	98.5003	25.0102	1643	1395	77	754	113	48	195	1	Dicotyledoneae_Diptilomiopidae 	DED	South China
+YN556_2	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	98.5003	25.0102	1643	1395	77	754	113	48	195	1	Dicotyledoneae_Diptilomiopidae 	DED	South China
+YN556_3	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	98.5003	25.0102	1643	1395	77	754	113	48	195	1	Dicotyledoneae_Diptilomiopidae 	DED	South China
+YN556_4	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	98.5003	25.0102	1643	1395	77	754	113	48	195	1	Dicotyledoneae_Diptilomiopidae 	DED	South China
+YN556_5	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	98.5003	25.0102	1643	1395	77	754	113	48	195	1	Dicotyledoneae_Diptilomiopidae 	DED	South China
+YN557_1	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	98.4626	25.0075	1585	1506	78	825	113	49	198	30	Dicotyledoneae_Diptilomiopidae 	DED	South China
+YN557_2	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	98.4626	25.0075	1585	1506	78	825	113	49	198	30	Dicotyledoneae_Diptilomiopidae 	DED	South China
+YN557_3	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	98.4626	25.0075	1585	1506	78	825	113	49	198	30	Dicotyledoneae_Diptilomiopidae 	DED	South China
+YN557_4	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	98.4626	25.0075	1585	1506	78	825	113	49	198	30	Dicotyledoneae_Diptilomiopidae 	DED	South China
+YN557_5	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	98.4626	25.0075	1585	1506	78	825	113	49	198	30	Dicotyledoneae_Diptilomiopidae 	DED	South China
+YN561_1	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.4467	24.9457	1436	1528	81	856	115	49	211	42	Dicotyledoneae_Eriophyidae	DED	South China
+YN561_2	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.4467	24.9457	1436	1528	81	856	115	49	211	42	Dicotyledoneae_Eriophyidae	DED	South China
+YN561_3	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.4467	24.9457	1436	1528	81	856	115	49	211	42	Dicotyledoneae_Eriophyidae	DED	South China
+YN561_4	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.4467	24.9457	1436	1528	81	856	115	49	211	42	Dicotyledoneae_Eriophyidae	DED	South China
+YN561_5	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.4467	24.9457	1436	1528	81	856	115	49	211	42	Dicotyledoneae_Eriophyidae	DED	South China
+YN575_1	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.7576	25.9668	2102	1375	78	748	110	48	183	47	Gymnospermae_Eriophyidae	GE	Southwest Region
+YN575_2	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.7576	25.9668	2102	1375	78	748	110	48	183	47	Gymnospermae_Eriophyidae	GE	Southwest Region
+YN575_3	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.7576	25.9668	2102	1375	78	748	110	48	183	47	Gymnospermae_Eriophyidae	GE	Southwest Region
+YN575_4	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.7576	25.9668	2102	1375	78	748	110	48	183	47	Gymnospermae_Eriophyidae	GE	Southwest Region
+YN575_5	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.7576	25.9668	2102	1375	78	748	110	48	183	47	Gymnospermae_Eriophyidae	GE	Southwest Region
+YN580_1	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.7576	25.9668	2102	1375	78	748	110	48	183	47	Gymnospermae_Eriophyidae	GE	Southwest Region
+YN580_2	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.7576	25.9668	2102	1375	78	748	110	48	183	47	Gymnospermae_Eriophyidae	GE	Southwest Region
+YN580_3	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.7576	25.9668	2102	1375	78	748	110	48	183	47	Gymnospermae_Eriophyidae	GE	Southwest Region
+YN580_4	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.7576	25.9668	2102	1375	78	748	110	48	183	47	Gymnospermae_Eriophyidae	GE	Southwest Region
+YN580_5	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	98.7576	25.9668	2102	1375	78	748	110	48	183	47	Gymnospermae_Eriophyidae	GE	Southwest Region
+YN583_1	YN	Gymnospermae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	99.9451	27.9005	3616	783	99	494	120	45	102	69	Gymnospermae_Diptilomiopidae 	GE	Southwest Region
+YN583_2	YN	Gymnospermae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	99.9451	27.9005	3616	783	99	494	120	45	102	69	Gymnospermae_Diptilomiopidae 	GE	Southwest Region
+YN583_3	YN	Gymnospermae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	99.9451	27.9005	3616	783	99	494	120	45	102	69	Gymnospermae_Diptilomiopidae 	GE	Southwest Region
+YN583_4	YN	Gymnospermae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	99.9451	27.9005	3616	783	99	494	120	45	102	69	Gymnospermae_Diptilomiopidae 	GE	Southwest Region
+YN583_5	YN	Gymnospermae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	99.9451	27.9005	3616	783	99	494	120	45	102	69	Gymnospermae_Diptilomiopidae 	GE	Southwest Region
+YN589_1	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	99.9451	27.9005	3616	783	99	494	120	45	102	69	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+YN589_2	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	99.9451	27.9005	3616	783	99	494	120	45	102	69	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+YN589_3	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	99.9451	27.9005	3616	783	99	494	120	45	102	69	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+YN589_4	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	99.9451	27.9005	3616	783	99	494	120	45	102	69	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+YN589_5	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	99.9451	27.9005	3616	783	99	494	120	45	102	69	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+YN593_1	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	99.7069	27.8583	3292	777	96	479	118	45	121	22	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+YN593_2	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	99.7069	27.8583	3292	777	96	479	118	45	121	22	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+YN593_3	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	99.7069	27.8583	3292	777	96	479	118	45	121	22	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+YN593_4	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	99.7069	27.8583	3292	777	96	479	118	45	121	22	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+YN593_5	YN	Dicotyledoneae	Diptilomiopidae 	Subtropical evergreen broad-leaved forest	99.7069	27.8583	3292	777	96	479	118	45	121	22	Dicotyledoneae_Diptilomiopidae 	DED	Southwest Region
+YN594_1	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	99.7069	27.8583	3292	777	96	479	118	45	121	22	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN594_2	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	99.7069	27.8583	3292	777	96	479	118	45	121	22	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN594_3	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	99.7069	27.8583	3292	777	96	479	118	45	121	22	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN594_4	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	99.7069	27.8583	3292	777	96	479	118	45	121	22	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN594_5	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	99.7069	27.8583	3292	777	96	479	118	45	121	22	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN598_1	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	99.7069	27.8583	3292	777	96	479	118	45	121	22	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN598_2	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	99.7069	27.8583	3292	777	96	479	118	45	121	22	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN598_3	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	99.7069	27.8583	3292	777	96	479	118	45	121	22	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN598_4	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	99.7069	27.8583	3292	777	96	479	118	45	121	22	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN598_5	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	99.7069	27.8583	3292	777	96	479	118	45	121	22	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN613_1	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.2477	27.1257	2881	947	102	601	117	48	133	71	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN613_2	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.2477	27.1257	2881	947	102	601	117	48	133	71	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN613_3	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.2477	27.1257	2881	947	102	601	117	48	133	71	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN613_4	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.2477	27.1257	2881	947	102	601	117	48	133	71	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN613_5	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.2477	27.1257	2881	947	102	601	117	48	133	71	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN618_1	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1342	25.6709	2630	1066	89	615	111	49	167	90	Gymnospermae_Eriophyidae	GE	Southwest Region
+YN618_2	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1342	25.6709	2630	1066	89	615	111	49	167	90	Gymnospermae_Eriophyidae	GE	Southwest Region
+YN618_3	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1342	25.6709	2630	1066	89	615	111	49	167	90	Gymnospermae_Eriophyidae	GE	Southwest Region
+YN618_4	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1342	25.6709	2630	1066	89	615	111	49	167	90	Gymnospermae_Eriophyidae	GE	Southwest Region
+YN618_5	YN	Gymnospermae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1342	25.6709	2630	1066	89	615	111	49	167	90	Gymnospermae_Eriophyidae	GE	Southwest Region
+YN620_1	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1342	25.6709	2630	1066	89	615	111	49	167	90	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN620_2	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1342	25.6709	2630	1066	89	615	111	49	167	90	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN620_3	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1342	25.6709	2630	1066	89	615	111	49	167	90	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN620_4	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1342	25.6709	2630	1066	89	615	111	49	167	90	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+YN620_5	YN	Dicotyledoneae	Eriophyidae	Subtropical evergreen broad-leaved forest	100.1342	25.6709	2630	1066	89	615	111	49	167	90	Dicotyledoneae_Eriophyidae	DED	Southwest Region
+Z407_1	Z	Gymnospermae	Phytoptidae	Subtropical evergreen broad-leaved forest	119.3616	30.1885	128	1420	48	543	79	24	237	32	Gymnospermae_Phytoptidae	GP	Central China
+Z407_2	Z	Gymnospermae	Phytoptidae	Subtropical evergreen broad-leaved forest	119.3616	30.1885	128	1420	48	543	79	24	237	32	Gymnospermae_Phytoptidae	GP	Central China
+Z407_4	Z	Gymnospermae	Phytoptidae	Subtropical evergreen broad-leaved forest	119.3616	30.1885	128	1420	48	543	79	24	237	32	Gymnospermae_Phytoptidae	GP	Central China
